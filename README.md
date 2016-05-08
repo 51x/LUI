@@ -9,6 +9,7 @@ How to install?
       git clone https://github.com/51x/LUI
       cd LUI
       mv lui_debian.sh /sbin/lu
+      chmod +x /sbin/lu
       lu
 
 How to use?
